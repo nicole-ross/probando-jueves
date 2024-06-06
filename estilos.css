@@ -1,0 +1,8 @@
+.col{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    margin: 5px;
+    color: rgb(131, 0, 253);
+}
